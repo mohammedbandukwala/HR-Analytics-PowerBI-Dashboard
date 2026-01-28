@@ -1,0 +1,14 @@
+# Power BI temporary files
+*.tmp
+*.log
+*.bak
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Mac system files
+.DS_Store
+
+# Large cache or recovery files
+*.pbix.~lock
